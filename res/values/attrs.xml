@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    	<declare-styleable name="CustomItemView">
+            <attr name="attr_textcolor" format="color" />
+            <attr name="attr_bgcolor" format="color" />
+            <attr name="attr_task" format="string" />
+       </declare-styleable>
+       
+</resources>
